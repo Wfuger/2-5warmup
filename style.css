@@ -1,0 +1,17 @@
+#box {
+  height:100px;
+  width: 100px;
+  border: solid green 2px;
+  top: 0;
+  left: 0;
+}
+body:nth-child(2) {
+  top: 0;
+  left: 0;
+  position: fixed;
+}
+table {
+  border-color: green;
+  top: 200;
+  left: 0;
+}
